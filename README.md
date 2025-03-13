@@ -11,7 +11,7 @@
 <p align="center">
   <a href="https://twitter.com/EmmaSerP"><img src="https://img.shields.io/badge/@EmmaSerP-1DA1F2?style=for-the-badge&logo=x&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/emmaserranoperez/">
-  <img src="https://img.shields.io/badge/Emma-0077B5?style=flat&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/Emma-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 </p>
 
