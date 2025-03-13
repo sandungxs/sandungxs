@@ -6,6 +6,13 @@
 - 🔧 I'm currently learning about process automations by Raspberry Pi devices and computational pipelines development.
 - 💡 I like to explore new technologies and develop software solutions and quick hacks.
 
+### 🛠 &nbsp;Tech Stack
+<div>
+
+ <img src="https://skillicons.dev/icons?i=ts,js,python,react,nextjs,html,css,nodejs,gql,postgres&perline=5" alt="Tech Stack" /> 
+ 
+</div>
+
 ### 📩 &nbsp;Connect with Me
 
 <p align="center">
