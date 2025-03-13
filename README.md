@@ -8,9 +8,9 @@
 
 ### 🛠 &nbsp;Tech Stack
 <div>
-
+<p align="center">
  <img src="https://skillicons.dev/icons?i=linux,python,html,r,raspberrypi,vscode&perline=2" alt="Tech Stack" /> 
- 
+</p>
 </div>
 
 
