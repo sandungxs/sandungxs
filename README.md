@@ -7,10 +7,9 @@
 - 💡 I like to explore new technologies and develop software solutions and quick hacks.
 
 ### 🛠 &nbsp;Tech Stack
-<div>
 
- <img src="https://skillicons.dev/icons?i=ts,js,python,react,nextjs,html,css,nodejs,gql,postgres&perline=5" alt="Tech Stack" /> 
- 
+<div style="display: flex; flex-wrap: wrap; justify-content: center;">
+  <img src="https://skillicons.dev/icons?i=ts,js,python,react,nextjs,html,css,nodejs,gql,postgres&perline=5" alt="Tech Stack" style="border-radius: 50%; margin: 5px; width: 50px; height: 50px; object-fit: cover;" />
 </div>
 
 ### 📩 &nbsp;Connect with Me
