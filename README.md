@@ -1,7 +1,12 @@
 ## Hi there, I'm Emma Serrano 👋
 
-### 👨🏻‍💻 &nbsp;About Me
+### 🚀 &nbsp;About Me
+- 🎓 I studied Biochemistry at the University of Seville where I specialised in Omics Data Analysis and Systems Biology.
+- 🌱 Nowadays I'm working on my PhD at the Biology and Biotechnology of Systems in Microalgae group at the IBVF.
+- 🔧 I'm currently learning about process automations by Raspberry Pi devices and computational pipelines development.
+- 
 
+### 🤝🏻 &nbsp;Connect with Me
 
 <!--
 **sandungxs/sandungxs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
