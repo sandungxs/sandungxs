@@ -10,7 +10,7 @@
 
 <p align="center">
   <a href="https://twitter.com/EmmaSerP"><img src="https://img.shields.io/badge/@EmmaSerP-1DA1F2?logo=twitter&logoColor=white&label="/></a>
-  ![Twitter](https://img.shields.io/badge/Twitter-Emma Serrano-1DA1F2?logo=twitter&logoColor=white)](https://twitter.com/EmmaSerP)
+  ![Twitter](https://img.shields.io/badge/Twitter-EmmaSerP-1DA1F2?logo=twitter&logoColor=white)](https://twitter.com/EmmaSerP)
 
   
 </p>
