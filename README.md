@@ -1,4 +1,6 @@
+<div align="center">
 ## Hi there, I'm Emma Serrano 👋
+<div>
 
 ### 🚀 &nbsp;About Me
 - 🎓 I studied Biochemistry at the University of Seville where I specialised in Omics Data Analysis and Systems Biology.
