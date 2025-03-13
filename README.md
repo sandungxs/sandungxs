@@ -8,8 +8,8 @@
 
 ### 🛠 &nbsp;Tech Stack
 
-<div style="display: flex; flex-wrap: wrap; justify-content: center;">
-  <img src="https://skillicons.dev/icons?i=ts,js,python,react,nextjs,html,css,nodejs,gql,postgres&perline=5" alt="Tech Stack" style="border-radius: 50%; margin: 5px; width: 50px; height: 50px; object-fit: cover;" />
+<div style="display: flex; align-items: center; justify-content: center; width: 200px; height: 200px; border-radius: 50%; position: relative; overflow: hidden;">
+  <img src="https://skillicons.dev/icons?i=ts,js,python,react,nextjs,html,css,nodejs,gql,postgres&perline=5" alt="Tech Stack" style="position: absolute; top: 0; left: 0; right: 0; bottom: 0; margin: auto; width: 100%; height: 100%; object-fit: contain; transform: rotate(72deg);" />
 </div>
 
 ### 📩 &nbsp;Connect with Me
