@@ -6,7 +6,7 @@
 - 🔧 I'm currently learning about process automations by Raspberry Pi devices and computational pipelines development.
 - 💡 I like to explore new technologies and develop software solutions and quick hacks.
 
-### 🤝🏻 &nbsp;Connect with Me
+### 📩 &nbsp;Connect with Me
 
 <p align="center">
   <a href="https://twitter.com/EmmaSerP"><img src="https://img.shields.io/badge/@EmmaSerP-1DA1F2?style=for-the-badge&logo=x&logoColor=white" /></a>
