@@ -8,8 +8,10 @@
 
 ### 🛠 &nbsp;Tech Stack
 
-<div style="display: flex; align-items: center; justify-content: center; width: 200px; height: 200px; border-radius: 50%; position: relative; overflow: hidden;">
-  <img src="https://skillicons.dev/icons?i=linux,python,html,r,raspberrypi,vscode&perline=3" alt="Tech Stack" style="position: absolute; top: 0; left: 0; right: 0; bottom: 0; margin: auto; width: 100%; height: 100%; object-fit: contain; transform: rotate(72deg);" />
+<div style="display: grid; place-items: center; width: 300px; height: 300px; position: relative;">
+  <div style="position: absolute; display: flex; align-items: center; justify-content: center; width: 100%; height: 100%; transform: rotate(0deg);">
+    <img src="https://skillicons.dev/icons?i=linux,python,html,r,raspberrypi,vscode&perline=3" alt="Tech Stack" style="position: absolute; top: 0; left: 0; right: 0; bottom: 0; margin: auto; width: 100%; height: 100%; object-fit: contain;" />
+  </div>
 </div>
 
 ### 📩 &nbsp;Connect with Me
@@ -18,7 +20,6 @@
   <a href="https://twitter.com/EmmaSerP"><img src="https://img.shields.io/badge/@EmmaSerP-1DA1F2?style=for-the-badge&logo=x&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/emmaserranoperez/"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:enma.serrano@ibvf.csic.es"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-
 </p>
 
 <!--
