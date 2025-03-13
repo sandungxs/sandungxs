@@ -1,6 +1,5 @@
-<div align="center">
 ## Hi there, I'm Emma Serrano 👋
-<div>
+
 
 ### 🚀 &nbsp;About Me
 - 🎓 I studied Biochemistry at the University of Seville where I specialised in Omics Data Analysis and Systems Biology.
@@ -10,9 +9,9 @@
 
 ### 🛠 &nbsp;Tech Stack
 <div>
-<p align="center">
- <img src="https://skillicons.dev/icons?i=linux,python,html,r,raspberrypi,vscode&perline=3" alt="Tech Stack" /> 
-</p>
+  <p align="center">
+    <img src="https://skillicons.dev/icons?i=linux,python,html,r,raspberrypi,vscode&perline=3" alt="Tech Stack" style="width: 80px; height: 80px;" />
+  </p>
 </div>
 
 
