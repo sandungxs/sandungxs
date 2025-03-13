@@ -10,8 +10,8 @@
 
 <p align="center">
   <a href="https://twitter.com/EmmaSerP"><img src="https://img.shields.io/badge/@EmmaSerP-1DA1F2?style=for-the-badge&logo=x&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/emmaserranoperez/">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="24" height="24"/> Emma
+  <a href="https://www.linkedin.com/in/emmaserranoperez/" target="_blank">
+  <img src="https://img.shields.io/static/v1?label=&message=Emma&color=0077B5&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
 </a>
 
 </p>
