@@ -8,9 +8,9 @@
 
 ### 🛠 &nbsp;Tech Stack
 
-<div style="display: grid; place-items: center; width: 300px; height: 300px; position: relative;">
-  <div style="position: absolute; display: flex; align-items: center; justify-content: center; width: 100%; height: 100%; transform: rotate(0deg);">
-    <img src="https://skillicons.dev/icons?i=linux,python,html,r,raspberrypi,vscode&perline=3" alt="Tech Stack" style="position: absolute; top: 0; left: 0; right: 0; bottom: 0; margin: auto; width: 100%; height: 100%; object-fit: contain;" />
+<div style="position: relative; width: 200px; height: 200px; display: flex; align-items: center; justify-content: center;">
+  <div style="position: absolute; width: 100%; height: 100%; display: flex; align-items: center; justify-content: center; transform: rotate(0deg);">
+    <img src="https://skillicons.dev/icons?i=linux,python,html,r,raspberrypi,vscode&perline=3" alt="Tech Stack" style="width: 40px; height: 40px; position: absolute; top: 0; left: 0; right: 0; bottom: 0; margin: auto; object-fit: contain; border-radius: 50%;" />
   </div>
 </div>
 
