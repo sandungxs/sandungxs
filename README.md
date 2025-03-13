@@ -9,15 +9,8 @@
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-  <a href="https://twitter.com/EmmaSerP"><img src="https://img.shields.io/badge/@EmmaSerP-1DA1F2?logo=twitter&logoColor=white&label="/></a>
-  <a href="https://twitter.com/EmmaSerP">
-  <img src="https://img.shields.io/badge/%20-@EmmaSerP-1DA1F2?logo=twitter&logoColor=white" />
-</a>
-<a href="https://twitter.com/EmmaSerP">
-  <img src="https://img.shields.io/badge/@EmmaSerP-1DA1F2?style=for-the-badge&logo=x&logoColor=white" />
-</a>
-  
-  
+  <a href="https://twitter.com/EmmaSerP"><img src="https://img.shields.io/badge/@EmmaSerP-1DA1F2?style=for-the-badge&logo=x&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/emmaserranoperez/"><img src="https://img.shields.io/badge/-Emma-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 </p>
 
 <!--
