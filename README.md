@@ -1,4 +1,7 @@
-## Hi there 👋
+## Hi there, I'm Emma Serrano 👋
+
+### 👨🏻‍💻 &nbsp;About Me
+
 
 <!--
 **sandungxs/sandungxs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
