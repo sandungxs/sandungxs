@@ -9,6 +9,8 @@
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
+  [![Twitter](https://img.shields.io/badge/Twitter-Emma Serrano-1DA1F2?logo=twitter&logoColor=white)](https://twitter.com/EmmaSerP)
+
   
 </p>
 
