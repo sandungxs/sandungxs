@@ -9,7 +9,7 @@
 
 ### 🛠 &nbsp;Tech Stack
 <div>
-  <p align="left" style="margin-left: 200px; display: flex; justify-content: space-between; flex-wrap: wrap;">
+  <p align="center">
     <img src="https://skillicons.dev/icons?i=linux,python,html,r,raspberrypi,vscode" alt="Tech Stack" style="width: 200px; height: 200px;" />
   </p>
 </div>
