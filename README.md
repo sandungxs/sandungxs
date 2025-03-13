@@ -9,11 +9,10 @@
 
 ### 🛠 &nbsp;Tech Stack
 <div>
-  <p align="center">
-    <img src="https://skillicons.dev/icons?i=linux,python,html,r,raspberrypi,vscode&perline=3" alt="Tech Stack" style="width: 200px; height: 200px;" />
+  <p align="left" style="margin-left: 20px; display: flex; justify-content: space-between; flex-wrap: wrap;">
+    <img src="https://skillicons.dev/icons?i=linux,python,html,r,raspberrypi,vscode&perline=3" alt="Tech Stack" style="width: 80px; height: 80px;" />
   </p>
 </div>
-
 
 ### 📩 &nbsp;Connect with Me
 
