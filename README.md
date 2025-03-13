@@ -13,6 +13,9 @@
   <a href="https://twitter.com/EmmaSerP">
   <img src="https://img.shields.io/badge/%20-@EmmaSerP-1DA1F2?logo=twitter&logoColor=white" />
 </a>
+<a href="https://twitter.com/EmmaSerP">
+  <img src="https://img.shields.io/badge/@EmmaSerP-1DA1F2?style=for-the-badge&logo=x&logoColor=white" />
+</a>
   
   
 </p>
