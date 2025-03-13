@@ -11,7 +11,7 @@
 <p align="center">
   <a href="https://twitter.com/EmmaSerP"><img src="https://img.shields.io/badge/@EmmaSerP-1DA1F2?style=for-the-badge&logo=x&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/emmaserranoperez/"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:enma.serrano@ibvf.csic.es"><img src="https://img.shields.io/badge/-EmmaSP-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+  <a href="mailto:enma.serrano@ibvf.csic.es"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
 </p>
 
