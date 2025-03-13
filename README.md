@@ -9,7 +9,7 @@
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-  <a href="https://twitter.com/EmmaSerP"><img src="https://img.shields.io/badge/Twitter-Emma Serrano-1DA1F2?logo=twitter&logoColor=white"/></a>
+  <a href="https://twitter.com/EmmaSerP"><img src="https://img.shields.io/badge/@EmmaSerP-1DA1F2?logo=twitter&logoColor=white&label="/></a>
   ![Twitter](https://img.shields.io/badge/Twitter-Emma Serrano-1DA1F2?logo=twitter&logoColor=white)](https://twitter.com/EmmaSerP)
 
   
