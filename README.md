@@ -4,9 +4,13 @@
 - 🎓 I studied Biochemistry at the University of Seville where I specialised in Omics Data Analysis and Systems Biology.
 - 🌱 Nowadays I'm working on my PhD at the Biology and Biotechnology of Systems in Microalgae group at the IBVF.
 - 🔧 I'm currently learning about process automations by Raspberry Pi devices and computational pipelines development.
-- 
+- 💡 I like to explore new technologies and develop software solutions and quick hacks.
 
 ### 🤝🏻 &nbsp;Connect with Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/ask2001/"><img src="https://img.shields.io/badge/-Aditya%20Sunit%20Kanoi-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+</p>
 
 <!--
 **sandungxs/sandungxs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
